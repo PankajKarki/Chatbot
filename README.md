@@ -3,9 +3,8 @@
 
 This is a Streamlit app that demonstrates a chatbot powered by OpenAI's GPT-3.5 Turbo model. The chatbot engages in conversations with users, providing information about product titles and descriptions based on uploaded images.
 
-```
-![Screenshot](screenshots/screenshot.png)
-```
+
+![Screenshot](screenshots/screenshot.png)]
 
 ## Features
 
